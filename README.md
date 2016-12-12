@@ -1,4 +1,4 @@
-## TAMAR LEHMANN
+## Tamar Lehmann
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2017 to March 2017)
+Makers Academy is Europe's leading Web Developer bootcamp, accepting only around 10% of applicants. 
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,13 +33,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol (September 2012 - June 2015)
 
-- Subject, any specialisms
-- Grade
+- Experimental Psychology (BSc)
+- First Class Honours
 - Other cool stuff
 
-#### Any other qualifications
+#### Immanuel College (September 2005 - June 2012)
+
+- A Levels: Economics A*, *Geography A*, *Psychology A*
+- *AS Levels: Computing (A)
+- GCSE's: 5 A*'s *and 5 A's
 
 ## Experience
 
