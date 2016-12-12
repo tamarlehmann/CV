@@ -50,15 +50,21 @@ Makers Academy is Europe's leading Web Developer bootcamp, accepting only around
 
 **intu Digital** (October 2015 - November 2016)    
 *Digital Marketing Executive*
-intu Digital (intu.co.uk) is the UK's first online shopping centre and the online presence of intu Properties plc, the owner of some of the largest and most popular shopping centres in the UK. Worked within the Marketing and Growth team. Key responsibilities included the management of day-to-day analytics of intu.co.uk site traffic and usage, as well as all aspects of reporting and presenting site performance to internal and external stakeholders. In addition, managed social media and paid social accounts and budgets for intu.co.uk, and PPC activity and budgets for intu.co.uk and all 15 centres.
+
+intu Digital (intu.co.uk) is the UK's first online shopping centre and the online presence of intu Properties plc, the owner of some of the largest and most popular shopping centres in the UK. 
+Worked within the Marketing and Growth team. Key responsibilities included the management of day-to-day analytics of intu.co.uk site traffic and usage, as well as all aspects of reporting and presenting site performance to internal and external stakeholders. 
 
 **Stylus Innovation & Advisory** (August 2015 - October 2015)   
 *Research Intern: Food, Beverage and Hospitality*  
-Stylus is an innovation research and trends membership service, helping businesses process global Consumer Lifestyle, Consumer Product and Consumer engagement insights, stimulating innovation and growth. Key responsibilities included identifying and analysing key trends within the food, beverage and hospitality industry and reporting on them in advisory articles and blog posts, whilst liasing with press teams to obtain interviews and expert quotes. 
+
+Stylus is an innovation research and trends membership service, helping businesses process global Consumer Lifestyle, Consumer Product and Consumer engagement insights, stimulating innovation and growth. 
+Key responsibilities included identifying and analysing key trends within the food, beverage and hospitality industry and reporting on them in advisory articles and blog posts, whilst liasing with press teams to obtain interviews and expert quotes. 
 
 **IVY: The Social University** (June 2014 - August 2014)
 *Summer Intern*
-IVY (was IVY CONNECT) unites talented, energetic and intellectual interviduals, with interests in Arts, Policy, Entrepeneurship and Social Impact, who are driven by a fundamental desire to make a positive and lasting impact on their communities. Whilst positioned in the New York City office of this dynamic start up, my key focus was on member outreach, business development and event co-ordination across a range of US states.
+
+IVY unites talented, energetic and intellectual interviduals, with interests in Arts, Policy, Entrepeneurship and Social Impact, who are driven by a fundamental desire to make a positive and lasting impact on their communities. 
+Whilst positioned in the New York City office of this dynamic start up, my key focus was on member outreach, business development and event co-ordination across a range of US states.
 
 ## Interests
 In my free time you can often find me:
