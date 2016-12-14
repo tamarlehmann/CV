@@ -1,25 +1,40 @@
 ## Tamar Lehmann
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an enthusuastic and ambitious psychology grad come marketing analyst exploring the world of coding and tech. 
+
+After not pursuing computing past AS Level, I revisited my interest in coding as a web marketing analyst. Exploring the site's traffic and providing insight and recommended changes as a result of these figures led me to collaborate with in-house developers daily. I soon realised I'd rather do their job than mine!
+
+As someone who appreciates the multi-faceted relevance of technology, I am excited by the prospect of creating functional programmes that have the ability to shape the world in which we live. I am seeking an opportunity that will consolidate and further my knowledge of coding in a retail/e-commerce environment.
 
 ## Skills
 
-#### This Skill
+#### Communication
+My verbal communication skills developed greatly during my years at university. I was often presenting white-papers in seminars, obtaining an 'Outstanding Achievement' award at graduation for my presentation skills. Whilst a student I tutored Psychology A Level, assisting individuals understand topics they could not grasp, and develop effective essay writing and time-management abilities. 
 
+(Verbal and written. Verbal- presentation skills (university- outstanding performance), understanding task requirements, tutoring. Written - stylus articles, lacer coaching, positions of responsibility   
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Analytical
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
+Solutions to problems, dashboards, fundraising, 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Creative
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+IVY events, intu visually clearer/dashboards
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.))
 
 ## Education
 
@@ -52,7 +67,7 @@ Makers Academy is Europe's leading Web Developer bootcamp, accepting only around
 *Digital Marketing Executive*
 
 intu Digital (intu.co.uk) is the UK's first online shopping centre and the online presence of intu Properties plc, the owner of some of the largest and most popular shopping centres in the UK. 
-Worked within the Marketing and Growth team. Key responsibilities included the management of day-to-day analytics of intu.co.uk site traffic and usage, as well as all aspects of reporting and presenting site performance to internal and external stakeholders. 
+Worked within the Marketing and Growth team. Key responsibilities included the management of biddable media channels, day-to-day analytics of intu.co.uk site traffic and usage, as well as all aspects of reporting and presenting site performance to internal and external stakeholders. 
 
 **Stylus Innovation & Advisory** (August 2015 - October 2015)   
 *Research Intern: Food, Beverage and Hospitality*  
