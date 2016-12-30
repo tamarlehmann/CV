@@ -21,7 +21,7 @@ Often described as an analytical thinker, I believe problem solving to be an int
 
 - Web Marketing Analyist: My role at intu was analytics based- exploring the site's traffic and providing insight and recommended website changes as a result.
 - Time-Saving Strategy: Upon entering my role at intu I became aware that the same time-consuming reports were circulated weekly. In order to divert my time to other projects I developed a number of graphical dashboards which stake-holders could 'jump into' to get a snapshot of how the different areas of the website were performing.  
-- Community Projects: At university I noticed a desire within the Jewish Society for educational programmes that cater to each religious denomination. As a result, I developed a schedule which brought in a range guest speakers and catered for every students needs.
+- Community Projects: At university I noticed a desire within the Jewish Society for educational programmes that cater to each religious denomination. As a result, I developed a schedule which brought in a range of guest speakers and met every students needs.
 
 #### Creative
 Creativity is often considered unimportant in the world of business, however, I consider it central to success. I aim to be creative in my approach, as well as in my solution to any problem I am faced with.
