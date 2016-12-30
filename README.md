@@ -2,7 +2,7 @@
 
 I am an enthusuastic and ambitious psychology grad come marketing analyst exploring the world of coding and tech. 
 
-After not pursuing computing past AS Level, I revisited my interest in coding as a web marketing analyst. Exploring the site's traffic and providing insight and recommended changes as a result of these figures led me to collaborate with in-house developers daily. I soon realised I'd rather do their job than mine!
+Having studied computing at AS Level, I revisited my interest in coding as a web marketing analyst. Exploring the site's traffic and providing insight and recommended changes as a result of these figures led me to collaborate with in-house developers daily. I soon realised I'd rather do their job than mine!
 
 As someone who appreciates the multi-faceted relevance of technology, I am excited by the prospect of creating functional programmes that have the ability to shape the world in which we live. I am seeking an opportunity that will consolidate and further my knowledge of coding in a retail/e-commerce environment.
 
