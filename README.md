@@ -9,32 +9,25 @@ As someone who appreciates the multi-faceted relevance of technology, I am excit
 ## Skills
 
 #### Communication
-My verbal communication skills developed greatly during my years at university. I was often presenting white-papers in seminars, obtaining an 'Outstanding Achievement' award at graduation for my presentation skills. Whilst a student I tutored Psychology A Level, assisting individuals understand topics they could not grasp, and develop effective essay writing and time-management abilities. 
+My communication skills have strongly developed throughout my academic career and commerical experience. Not shy to stand up in front of a crowd, I also enjoy speaking to, and with others. I love listening to and questioning what others have to say - you never stop learning, and who better from than those around you! 
 
-(Verbal and written. Verbal- presentation skills (university- outstanding performance), understanding task requirements, tutoring. Written - stylus articles, lacer coaching, positions of responsibility   
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+- Verbal Presentation Skills: I obtained an 'Outstanding Achievement' award at graduation for my presentation skills of white papers in university seminars.
+- Communicating Abstract Ideas: I tutored Psychology A Level and assisted students to develop effective essay writing and time-management abilities.  
+- Understanding Task Requirements: In my role at intu I was often briefed over email, and asked to pull together complex statistical information with clear annotations for others to digest and present.
+- Written Abilities: I assisted a PhD student in her writing of the book 'Techniques for Coaching and Mentoring', collating theories and examples from previous editions.
 
 #### Analytical
+Often described as an analytical thinker, I believe problem solving to be an intrinsic part of me. Whether it's a task to be solved or a goal that seems out of reach, I begin by defining the problem and consider the most effective route to arrive at the solution.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-Solutions to problems, dashboards, fundraising, 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Web Marketing Analyist: My role at intu was analytics based- exploring the site's traffic and providing insight and recommended website changes as a result.
+- Time-Saving Strategy: Upon entering my role at intu I became aware that the same time-consuming reports were circulated weekly. In order to divert my time to other projects I developed a number of graphical dashboards which stake-holders could 'jump into' to get a snapshot of how the different areas of the website were performing.  
+- Community Projects: At university I noticed a desire within the Jewish Society for educational programmes that cater to each religious denomination. As a result, I developed a schedule which brought in a range guest speakers and catered for every students needs.
 
 #### Creative
+Creativity is often considered unimportant in the world of business, however, I consider it central to success. I aim to be creative in my approach, as well as in my solution to any problem I am faced with.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-IVY events, intu visually clearer/dashboards
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.))
+- The 'WOW' Factor: During my time at IVY, I helped to organise a weekend-eztravaganza for Labor Day. From table arrangements and cocktail menus to unexpected venues and themed parties, we took the most creative approach aiming to 'WOW' the guests- feedback suggests we did!
+- Visually Clear and Pleasing: Whilst creating dashboards and presentations I always opt for less text and more graphics wherever possible. I believe the more engaging something is, the quicker the message can be conveyed and therefore the more powerful it will be.
 
 ## Education
 
@@ -52,6 +45,7 @@ Makers Academy is Europe's leading Web Developer bootcamp, accepting only around
 
 - Experimental Psychology (BSc)
 - First Class Honours
+- Final year research project involved writing a DmDx program to test whether increased inter-letter spacing aided dyslexic readers.
 - Education Secretary of JSoc (Jewish Society) and Head Representitive of Genesis-Leadership, a social and educational programme for Jewish Students nationwide. Awarded "Young Pioneer of Religious Education" Award by an international education charity for contribution to Bristol's student community.
 
 #### Immanuel College (September 2005 - June 2012)
@@ -60,6 +54,11 @@ Makers Academy is Europe's leading Web Developer bootcamp, accepting only around
 - AS Levels: Computing (A)
 - GCSE's: 5 A\*'s and 5 A's
 - Deputy Head Girl and Chairman of Charity & Social Action Society.
+
+#### Other Qualifications
+
+- Google Analytics certified (from December 2015)
+- Advanced certificates in MS Word and MS Excel
 
 ## Experience
 
