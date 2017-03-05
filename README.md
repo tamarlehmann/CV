@@ -23,25 +23,25 @@ I am seeking an opportunity in an environment that will consolidate my existing 
 #### Communication
 I pride myself in my communication abilities. Not shy to stand up in front of a crowd, I enjoy speaking with others, always questioning and learning as much as I can from those around me.
 
-- Verbal Presentation Skills: I obtained an 'Outstanding Achievement' award at graduation for my presentation skills of white papers in university seminars.
-- Communicating Abstract Ideas: I tutored Psychology A Level for four years, assisting students to develop effective essay writing and time-management abilities.  
-- Understanding Task Requirements: In my role at intu I was often briefed over email, and asked to pull together complex statistical information with clear annotations for others to digest and present.
+- **Verbal Presentation Skills**: I obtained an 'Outstanding Achievement' award at graduation for my presentation skills of white papers in university seminars.
+- **Communicating Abstract Ideas**: I tutored Psychology A Level for four years, assisting students to develop effective essay writing and time-management abilities.  
+- **Understanding Task Requirements**: In my role at intu I was often briefed over email, and asked to pull together complex statistical information with clear annotations for others to digest and present.
 
 
 #### Analytical
 Often described as an analytical thinker, I believe problem solving to be an intrinsic part of me. Whether it's a task to be solved or a goal that seems out of reach, I begin by defining the problem, breaking it into it's component parts, and considering the most effective route to arrive at the solution.
 
-- Psychological Experiments: For my dissertation, I designed, built and statistically analysed a novel, computer-based study exploring the relationship between two theories of dyslexia.
-- Web Marketing Analyst: My role at intu was analytics based- exploring the site's traffic and providing insight and recommended website changes as a result.
-- Time-Saving Strategy: Upon entering my role at intu I became aware that the same time-consuming reports were circulated weekly. In order to divert my time to other projects I developed a number of graphical dashboards which stake-holders could 'jump into' to get a snapshot of how the different areas of the website were performing.  
-- Community Projects: At university I noticed a desire within the Jewish Society for educational programmes that cater to each religious denomination. As a result, I developed a schedule which brought in a range of guest speakers and met every students needs.
+- **Psychological Experiments**: For my dissertation, I designed, built and statistically analysed a novel, computer-based study exploring the relationship between two theories of dyslexia.
+- **Web Marketing Analyst**: My role at intu was analytics based- exploring the site's traffic and providing insight and recommended website changes as a result.
+- **Time-Saving Strategy**: Upon entering my role at intu I became aware that the same time-consuming reports were circulated weekly. In order to divert my time to other projects I developed a number of graphical dashboards which stake-holders could 'jump into' to get a snapshot of how the different areas of the website were performing.  
+- **Community Projects**: At university I noticed a desire within the Jewish Society for educational programmes that cater to each religious denomination. As a result, I developed a schedule which brought in a range of guest speakers and met every students needs.
 
 #### Creative
 I consider creativity to be central to success. I aim to be creative in my approach, as well as in my solution to any problem I am faced with.
 
-- Web Design: During the 12 week MA course, I learnt Bootstrap in my spare time so I could design interfaces for the sites we were building. I put this knowledge into practice for the first time in Week 6 where we built [MakersBnB](https://github.com/dylanrhodius/MakersBnB-challenge), a basic clone of AirBnB.
-- The 'WOW' Factor: During my time at IVY, I helped to organise a weekend-extravaganza for Labor Day. From table arrangements and cocktail menus to unexpected venues and themed parties, we took the most creative approach aiming to 'WOW' the guests- feedback suggests we did!
-- Visually Clear and Pleasing: Whilst creating dashboards and presentations I always opt for less text and more graphics wherever possible. I believe the more engaging something is, the quicker the message can be conveyed and the more powerful it will be.
+- **Web Design**: During the 12 week MA course, I learnt Bootstrap in my spare time so I could design interfaces for the sites we were building. I put this knowledge into practice for the first time in Week 6 where we built [MakersBnB](https://github.com/dylanrhodius/MakersBnB-challenge), a basic clone of AirBnB.
+- **The 'WOW' Factor**: During my time at IVY, I helped to organise a weekend-extravaganza for Labor Day. From table arrangements and cocktail menus to unexpected venues and themed parties, we took the most creative approach aiming to 'WOW' the guests- feedback suggests we did!
+- **Visually Clear and Pleasing**: Whilst creating dashboards and presentations I always opt for less text and more graphics wherever possible. I believe the more engaging something is, the quicker the message can be conveyed and the more powerful it will be.
 
 
 ## Education
@@ -97,8 +97,8 @@ Whilst positioned in the New York City office of this dynamic start up, my key f
 ## Interests
 In my free time you can often find me:
 
-*Charity* - Volunteering or working on a charity fundraising project. Latest venture was fundraising, recipe collecting/tasting and formulating a hard-back cookbook raising over £40,000 for a resource providing professional and expert services to members of the local community affected by cancer.
+**Charity** - Volunteering or working on a charity fundraising project. Latest venture was fundraising, recipe collecting/tasting and formulating a hard-back cookbook raising over £40,000 for a resource providing professional and expert services to members of the local community affected by cancer.
 
-*Exercise* - At a spin or HIIT class.
+**Exercise** - At a spin or HIIT class.
 
-*Fashion, Lifestyle & E-commerce Trends* - Exploring news and views on the latest and most desirable fashion, beauty and lifestyle products, brands, destinations and technologies disrupting these industries.
+**Fashion, Lifestyle & E-commerce Trends** - Exploring news and views on the latest and most desirable fashion, beauty and lifestyle products, brands, destinations and technologies disrupting these industries.
