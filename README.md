@@ -1,4 +1,4 @@
-## Tamar Lehmann
+# Tamar Lehmann
 
 [LinkedIn](https://www.linkedin.com/in/tamar-lehmann-770799a1/) | [GitHub](https://github.com/tamarlehmann) | [Portfolio Website](http://tamarlehmann.co.uk)              
 
@@ -11,7 +11,7 @@ Jump to: [Projects](https://github.com/tamarlehmann/CV#projects) | [Skills](http
 ## Projects
 
 | Project | Demo |Summary | Build | Technologies | Testing |
-|  ------ |  ---------------- | ----------- | -------------| ------- |
+|  ------ |  ---- | ----- | ----- | -------------| ------- |
 | [instaTam](https://github.com/tamarlehmann/instagram-challenge) | [Heroku](http://instatam.herokuapp.com) | A rails based application designed to mimic the basic functionality of Instagram | Solo, 1 weekend as a MA weekend-challenge | Ruby, Rails, PostgreSQL, Javascript, OAuth | RSpec, Capybara |
 | [HabiChat](https://github.com/laurenrosie/HabiChat) | [Heroku](https://habichat.herokuapp.com) | A rails based application that aims to keep group related scheduling and communication in one place | Written with three others, in 4 days as part of a project week at MA | Ruby, Rails, PostgreSQL, Javascript, Websockets(ActionCable) | RSpec, Capybara |
 
