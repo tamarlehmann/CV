@@ -1,6 +1,6 @@
 # Tamar Lehmann
 
-[LinkedIn](https://www.linkedin.com/in/tamar-lehmann-770799a1/) | [GitHub](https://github.com/tamarlehmann) 
+[LinkedIn](https://www.linkedin.com/in/tamar-lehmann-770799a1/) | [GitHub](https://github.com/tamarlehmann)
 <!-- [Portfolio Website](http://tamarlehmann.co.uk)               -->
 
 I'm an enthusiastic and ambitious **full stack junior software developer** having graduated from [Makers Academy](http://www.makersacademy.com/), with a background in psychology and marketing analytics. I'm excited by the prospect of crafting clean, tested and re-usable code and offer a can-do attitude, strong communication and teamwork skills and the ability to learn new concepts quickly.
@@ -27,14 +27,14 @@ Jump to: [Projects](https://github.com/tamarlehmann/CV#projects) | [Skills](http
   - Rewarded at intu for my ability to **understand task requirements** from e-mail briefs and pull together complex statistical information.
 
 
-- **Analytics & Initiative**: <small> *define the problem, dissect into component parts, design the solution*  </small>
+- **Analytics & Initiative**: <small> *define the problem, dissect into component parts, deliver the solution*  </small>
 
   - Designed, built and analysed a computer-based **psychological study** exploring the relation between theories of dyslexia;
   - **Developed graphical dashboards** at intu, providing snapshots to stake-holders of website performance replacing dense weekly reports;
   - Identified a desire for cross-denominational activities at the Bristol University Jewish Society, and subsequently **designed an educational programme** catering to all students.
 
 
-- **Creative**: <small> *in approach and solution to all problems* </small>
+- **Creative**: <small> *approach to design and aesthetics* </small>
   - Self-taught **bootstrap** during the MA course in order to design interfaces for the sites built, first project using bootstrap was [MakersBnB](https://github.com/dylanrhodius/MakersBnB-challenge);
   - Whilst interning at IVY organised a Labor Day weekend party, implementing **creative approaches** towards table arrangements, cocktail menus and venues;
   - In designing dashboards and presentations, opting for **less text and more graphics** - the more engaging the interface, the quicker a message is conveyed.
