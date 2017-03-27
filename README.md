@@ -15,6 +15,7 @@ Jump to: [Projects](https://github.com/tamarlehmann/CV#projects) | [Skills](http
 |  ------ |  ---- | ----- | ----- | -------------| ------- |
 | [instaTam](https://github.com/tamarlehmann/instagram-challenge) | [Heroku](http://instatam.herokuapp.com) | Rails based application designed to mimic the basic functionality of Instagram | Solo, one MA weekend challenge | Ruby, Rails, PostgreSQL, Javascript, OAuth | RSpec, Capybara |
 | [HabiChat](https://github.com/laurenrosie/HabiChat) | [Heroku](https://habichat.herokuapp.com) | Rails based application designed to centralise group related scheduling and communication | Group of three, four days at MA | Ruby, Rails, PostgreSQL, Javascript, Websockets(ActionCable) | RSpec, Capybara |
+| [Developer's Dictionary](https://github.com/KatHicks/developers-dictionary) | [Website](http://www.developers-dictionary.co.uk/), [Video Demo](https://vimeo.com/209777663) | A fun and engaging definitions resource for software developers built using full Javascript Stack | Group of six, eight days at MA | Mongodb, Node.js, Express, jQuery, SVG | Mocha, Chai, Zombie | 
 
 
 
